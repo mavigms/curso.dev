@@ -1,1 +1,1 @@
-# cur
+# curso.dev
